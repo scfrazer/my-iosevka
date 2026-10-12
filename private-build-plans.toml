@@ -1,0 +1,140 @@
+[buildPlans.IosevkaCustom]
+family = "Iosevka Custom"
+spacing = "normal"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = false
+
+[buildPlans.IosevkaCustom.variants.design]
+zero = "tall-slashed"
+l = "serifed-flat-tailed"
+asterisk = "penta-low"
+brace = "curly-flat-boundary"
+percent = "rings-continuous-slash"
+
+  [buildPlans.IosevkaCustom.ligations]
+  inherits = "clike"
+
+[buildPlans.IosevkaCustom.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.IosevkaCustom.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.IosevkaCustom.widths.Normal]
+shape = 500
+menu = 5
+css = "normal"
+
+[buildPlans.IosevkaCustom.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.IosevkaCustom.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.IosevkaCustom.subset.exclude]
+ranges = [[9728, 10175], [127744, 128319]]
+
+[buildPlans.IosevkaCustomExtended]
+family = "Iosevka Custom Extended"
+spacing = "normal"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = false
+
+[buildPlans.IosevkaCustomExtended.variants.design]
+zero = "tall-slashed"
+l = "serifed-flat-tailed"
+asterisk = "penta-low"
+brace = "curly-flat-boundary"
+percent = "rings-continuous-slash"
+
+  [buildPlans.IosevkaCustomExtended.ligations]
+  inherits = "clike"
+
+[buildPlans.IosevkaCustomExtended.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.IosevkaCustomExtended.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.IosevkaCustomExtended.widths.Normal]
+shape = 600
+menu = 5
+css = "normal"
+
+[buildPlans.IosevkaCustomExtended.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.IosevkaCustomExtended.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.IosevkaCustomExtended.subset.exclude]
+ranges = [[9728, 10175], [127744, 128319]]
+
+[buildPlans.IosevkaCustomSemiExtended]
+family = "Iosevka Custom SemiExtended"
+spacing = "normal"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = false
+
+[buildPlans.IosevkaCustomSemiExtended.variants.design]
+zero = "tall-slashed"
+l = "serifed-flat-tailed"
+asterisk = "penta-low"
+brace = "curly-flat-boundary"
+percent = "rings-continuous-slash"
+
+  [buildPlans.IosevkaCustomSemiExtended.ligations]
+  inherits = "clike"
+
+[buildPlans.IosevkaCustomSemiExtended.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.IosevkaCustomSemiExtended.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.IosevkaCustomSemiExtended.widths.Normal]
+shape = 548
+menu = 5
+css = "normal"
+
+[buildPlans.IosevkaCustomSemiExtended.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.IosevkaCustomSemiExtended.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.IosevkaCustomSemiExtended.subset.exclude]
+ranges = [[9728, 10175], [127744, 128319]]
